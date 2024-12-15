@@ -4,10 +4,8 @@
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <AssemblyName>MultiLanguageSearch.Persistence</AssemblyName>
+    <RootNamespace>MultiLanguageSearch.Persistence</RootNamespace>
   </PropertyGroup>
-
-  <ItemGroup>
-    <PackageReference Include="Google.Cloud.Translate.V3" Version="3.9.0" />
-  </ItemGroup>
 
 </Project>
